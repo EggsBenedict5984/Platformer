@@ -7,20 +7,18 @@ Welcome to my **Platformer Game**! This is a 2D platformer game built with Unity
 - 🕹️ Classic platformer mechanics
 - 🏃‍♂️ Smooth character movement
 - 🌎 Multiple levels with increasing difficulty
-- 🎵 Engaging background music and sound effects
+- 🎵 Engaging sound effects
 - 🖼️ Pixel art graphics
 
 ## 📋 TODO
 
-Here's what we are working on:
+Here's what I'm working on:
 
-- [x] 🦸‍♂️ Add new character animations
+- [ ] 🦸‍♂️ Add new character animations
 - [ ] 🌳 Design and implement new levels
 - [ ] 💥 Create enemy AI
-- [ ] 🎯 Implement scoring and power-ups
-- [ ] 🐛 Fix known bugs and optimize performance
 
 ## 🤝 Contributing
 
 - Benjamin Kim
-- email - benjiahnkim@gmail.com
+  - benjiahnkim@gmail.com
