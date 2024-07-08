@@ -14,7 +14,7 @@ Welcome to my **Platformer Game**! This is a 2D platformer game built with Unity
 
 Here's what we are working on:
 
-- [ ] 🦸‍♂️ Add new character animations
+- [x] 🦸‍♂️ Add new character animations
 - [ ] 🌳 Design and implement new levels
 - [ ] 💥 Create enemy AI
 - [ ] 🎯 Implement scoring and power-ups
